@@ -1,9 +1,11 @@
 # Oopsie Box Documentation
-## Kaleb Kruse
+![Oopsie Box picture](/oopsieBoxImage.jpg)
 
 
 ### 0 - Introduction
 
+
+One thing to note, this document was written fairly exclusively for my boss for him to use the oopsie box. I wanted this uploaded somewhere so the files could be kept somewhere I or he could retrieve them if necessary.
 
 Congratulations on purchasing your very own Oopsie Box! Not that I’d sell it or anything, it’d be way too expensive for what you’re really getting. This guide should not only get your Oopsie Box set up, but also show you how to properly use and maintain it. 
 
